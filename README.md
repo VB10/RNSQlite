@@ -8,7 +8,7 @@
 
 
 - Basicly use component.
-- How to use ? 
+- How to use ?  
 - Android javaExecute fix in video ([Youtube channel](https://www.youtube.com/channel/UCdUaAKTLJrPZFStzEJnpQAg))
 
 # Thanks
