@@ -8,7 +8,7 @@
 
 
 - Basicly use component.
-- How to use ?  
+- Learn use and understand sqlite  
 - Android javaExecute fix in video ([Youtube channel](https://www.youtube.com/channel/UCdUaAKTLJrPZFStzEJnpQAg))
 
 # Thanks
